@@ -53,7 +53,7 @@ Logistic Regression
 ---
 
 ## 👨‍💻 Author
-**Farid Ghattas** - Aspiring Data Analyst
-📧 **farid.ghattas84@gmail.com** 
-💼 **https://www.linkedin.com/in/farid-ghattas-43356923b/**
+**Farid Ghattas** - Aspiring Data Analyst    
+📧 **farid.ghattas84@gmail.com**    
+💼 **https://www.linkedin.com/in/farid-ghattas-43356923b/**    
 
