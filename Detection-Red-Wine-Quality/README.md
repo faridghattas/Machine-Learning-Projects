@@ -65,14 +65,14 @@ Build a **classification model** that can predict the **quality score** of red w
 ---
 
 ## 🧰 Technologies Used  
-Language : Python 
-Libraries : pandas, numpy, matplotlib, seaborn, scikit-learn 
+Language : Python    
+Libraries : pandas, numpy, matplotlib, seaborn, scikit-learn     
 nvironment : Jupyter Notebook / VS Code / Kaggle 
 
 ---
 
 ## 👨‍💻 Author
-**Farid Ghattas** - Aspiring Data Analyst
-📧 **farid.ghattas84@gmail.com** 
+**Farid Ghattas** - Aspiring Data Analyst    
+📧 **farid.ghattas84@gmail.com**    
 💼 **https://www.linkedin.com/in/farid-ghattas-43356923b/**
 
