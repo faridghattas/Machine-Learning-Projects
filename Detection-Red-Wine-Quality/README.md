@@ -1,17 +1,17 @@
-## 🍷 Red Wine Quality Detection using Machine Learning
+# 🍷 Red Wine Quality Detection using Machine Learning
 
-### 📘 Overview  
+## 📘 Overview  
 This project focuses on **predicting the quality of red wine** based on its **physicochemical features** such as acidity, sugar content, pH, alcohol percentage, and others.  
 Using **Machine Learning algorithms**, the goal is to classify wine samples into different quality levels (e.g., low, medium, high).
 
 ---
 
-### 🧠 Objective  
+## 🧠 Objective  
 Build a **classification model** that can predict the **quality score** of red wine based on various chemical attributes.
 
 ---
 
-### 🧩 Dataset  
+## 🧩 Dataset  
 📊 **Dataset Name:** Wine Quality – Red Wine  
 📥 **Source:** [Kaggle - Red Wine Quality Dataset](https://www.kaggle.com/datasets/uciml/red-wine-quality-cortez-et-al)
 
@@ -34,7 +34,7 @@ Build a **classification model** that can predict the **quality score** of red w
 
 ---
 
-### ⚙️ Workflow  
+## ⚙️ Workflow  
 1. **Import Libraries** → `pandas`, `numpy`, `matplotlib`, `seaborn`, `sklearn`  
 2. **Load & Explore Data** → Understand data structure and check for missing values  
 3. **Data Preprocessing** →  
@@ -52,20 +52,20 @@ Build a **classification model** that can predict the **quality score** of red w
    - Precision / Recall / F1-score  
 ---
 
-### 📈 Results  
+## 📈 Results  
 - The **Random Forest Classifier** gave the best performance with an accuracy around **~93%**.  
 - The model successfully identified patterns between chemical composition and wine quality.  
 - Further tuning could improve precision for medium-quality wines.
 
 ---
 
-### 📊 Visuals  
+## 📊 Visuals  
 - **Correlation Heatmap** → to show relationships between features.  
 - **Feature Importance Graph** → to highlight which factors most influence wine quality.  
 
 ---
 
-### 🧰 Technologies Used  
+## 🧰 Technologies Used  
 Language : Python 
 Libraries : pandas, numpy, matplotlib, seaborn, scikit-learn 
 nvironment : Jupyter Notebook / VS Code / Kaggle 
