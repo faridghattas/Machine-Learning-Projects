@@ -7,11 +7,9 @@ Using **Machine Learning algorithms**, the goal is to classify wine samples into
 ---
 
 ## 🧠 Objective  
-
 Build a **classification model** that can predict the **quality score** of red wine based on various chemical attributes.
 
 ---
-
 ## 🧩 Dataset  
 📊 **Dataset Name:** Wine Quality – Red Wine  
 📥 **Source:** [Kaggle - Red Wine Quality Dataset](https://www.kaggle.com/datasets/uciml/red-wine-quality-cortez-et-al)
