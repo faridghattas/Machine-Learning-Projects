@@ -14,24 +14,24 @@ Challenge: Build an accurate classifier to help in underwater mine detection
 ---
 
 ## 📊 Dataset Description
-Source: Sonar signals dataset
-Samples: 208 total instances
-Features: 60 numerical attributes representing energy in different frequency bands
-Target:
-R = Rock
-M = Mine
-Classes: Balanced distribution between rocks and mines
+Source: Sonar signals dataset    
+Samples: 208 total instances    
+Features: 60 numerical attributes representing energy in different frequency bands    
+Target:    
+R = Rock    
+M = Mine    
+Classes: Balanced distribution between rocks and mines    
 
 ---
 
 ## 🛠️ Technologies Used
 
-Python 3.x
-Pandas - Data manipulation
-NumPy - Numerical computations
-Scikit-learn - Machine learning algorithms
-Matplotlib/Seaborn - Data visualization
-Jupyter Notebook - Development environment
+Python 3.x    
+Pandas - Data manipulation    
+NumPy - Numerical computations    
+Scikit-learn - Machine learning algorithms    
+Matplotlib/Seaborn - Data visualization    
+Jupyter Notebook - Development environment    
 
 ---
 
