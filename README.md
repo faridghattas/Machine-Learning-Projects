@@ -26,14 +26,14 @@ Projects/
 
 ## 🧩 Topics Covered
 
-🔹 Data Preprocessing
-🔹 Linear & Logistic Regression
-🔹 Decision Trees & Random Forests
-🔹 K-Nearest Neighbors (KNN)
-🔹 Support Vector Machines (SVM)
-🔹 Clustering (K-Means, Hierarchical)
-🔹 Model Evaluation & Metrics
-🔹 Feature Engineering
+🔹 Data Preprocessing    
+🔹 Linear & Logistic Regression    
+🔹 Decision Trees & Random Forests    
+🔹 K-Nearest Neighbors (KNN)    
+🔹 Support Vector Machines (SVM)    
+🔹 Clustering (K-Means, Hierarchical)    
+🔹 Model Evaluation & Metrics    
+🔹 Feature Engineering    
 
 ---
 
