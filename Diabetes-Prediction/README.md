@@ -58,7 +58,7 @@ Language :	Python
 Libraries	: pandas, numpy, matplotlib, seaborn, scikit-learn
 Environment	: Jupyter Notebook / VS Code / Kaggle
 
---
+---
 
 ## 👨‍💻 Author
 **Farid Ghattas** - Aspiring Data Analyst
