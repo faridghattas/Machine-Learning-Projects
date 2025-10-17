@@ -12,11 +12,15 @@
 7- And other related features.
 8- Using Machine Learning algorithms, the model learns patterns from historical data to classify a person as diabetic or non-diabetic.
 
+---
+
 ## 🧠 Objective
 
 **Build a Classification Model that can predict:**
 1 → The person has diabetes
 0 → The person does not have diabetes
+
+---
 
 ## 🧩 Dataset
 
@@ -25,6 +29,8 @@
 Total Records: 768
 Features: 8 Independent Variables + 1 Target
 Target Column: Outcome
+
+---
 
 ## ⚙️ Workflow
 
@@ -36,17 +42,23 @@ Target Column: Outcome
   > SVC(kernel='linear')
 6- Model Evaluation → Use metrics like Accuracy
 
+---
+
 ## 📈 Results
 
 The best-performing model was Support Vector Classifier (SVC) with kernel='linear'.
 Achieved an accuracy of approximately ~78%.
 Showed a balanced performance between Precision and Recall.
 
+---
+
 ## 🧰 Technologies Used
 
 Language :	Python
 Libraries	: pandas, numpy, matplotlib, seaborn, scikit-learn
 Environment	: Jupyter Notebook / VS Code / Kaggle
+
+--
 
 ## 👨‍💻 Author
 **Farid Ghattas** - Aspiring Data Analyst
