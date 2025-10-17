@@ -3,6 +3,8 @@
 ## 📘 Overview
 This folder contains multiple Machine Learning projects that I’ve built while learning and practicing different algorithms and techniques.
 
+---
+
 ## 📊 Machine Learning Project Structure
 
 Projects/    
@@ -20,6 +22,8 @@ Projects/
 │   ├── README.md    
 │   └── dataset.csv  
 
+---
+
 ## 🧩 Topics Covered
 
 🔹 Data Preprocessing
@@ -31,6 +35,8 @@ Projects/
 🔹 Model Evaluation & Metrics
 🔹 Feature Engineering
 
+---
+
 ## 🚀 Goal
 
 scikit-learn
@@ -39,7 +45,10 @@ numpy
 matplotlib
 seaborn
 
+---
+
 ## 👨‍💻 Author
 **Farid Ghattas** - Aspiring Data Analyst
 📧 **farid.ghattas84@gmail.com** 
 💼 **https://www.linkedin.com/in/farid-ghattas-43356923b/**
+
