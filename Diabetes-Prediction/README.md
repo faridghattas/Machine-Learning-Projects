@@ -39,7 +39,7 @@ Target Column: Outcome
 3- Data Preprocessing → Clean, normalize, and prepare data for modeling    
 4- Train-Test Split → Divide data into training and testing sets    
 5- Model Building → Experiment with different algorithms such as:    
-  - SVC(kernel='linear')    
+- SVC(kernel='linear')    
 6- Model Evaluation → Use metrics like Accuracy
 
 ---
